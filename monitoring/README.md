@@ -41,7 +41,7 @@ Publisher (FFmpeg) → MediaMTX (RTMP ingest) → FFmpeg Packagers → Nginx Ori
 
 ## 🧪 How to Run
 ```bash
-git clone https://github.com/fantasmagorikus/streaming-lab.git
+git clone https://github.com/phantasmagorie/streaming-lab.git
 cd streaming-lab
 docker compose up -d
 Then open:
